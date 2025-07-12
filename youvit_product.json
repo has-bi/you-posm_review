@@ -1,0 +1,154 @@
+[
+  {
+    "sku": "Youvit_Multivitamin_Adult",
+    "product": "Youvit Multivitamin Gummy",
+    "audience": "Adult",
+    "format": "Pouch 30 gummies",
+    "main_highlights": ["10 Vitamins", "3 Minerals", "5 Super Berries"],
+    "visual": "White pouch, berry images, no mascot"
+  },
+  {
+    "sku": "Youvit_Collagen",
+    "product": "Youvit Collagen Gummy",
+    "audience": "Adult",
+    "format": "Pouch 60 gummies",
+    "main_highlights": [
+      "1000mg Collagen",
+      "Vitamin C",
+      "Strawberry & Pomegranate"
+    ],
+    "visual": "White pouch, fruit images, pink rose gummy, no mascot"
+  },
+  {
+    "sku": "Youvit_Vision_Kids",
+    "product": "Youvit Vitamin A+ Lutein Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Lutein", "Vitamin A, C, E", "Zeaxanthin"],
+    "visual": "Blue pouch, eagle mascot, owl-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Vision_Kids",
+    "product": "Youvit Vitamin A+ Lutein Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Lutein", "Vitamin A, C, E", "Zeaxanthin"],
+    "visual": "Blue pouch, pink owl mascot with flower, owl-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Vision_Kids",
+    "product": "Youvit Vitamin A+ Lutein Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Lutein", "Vitamin A, C, E", "Zeaxanthin"],
+    "visual": "Blue pouch, brown owl mascot, owl-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_Omega3",
+    "product": "Youvit Omega-3 Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Omega-3", "DHA", "EPA"],
+    "visual": "Blue pouch, grey shark mascot, fish-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_Omega3",
+    "product": "Youvit Omega-3 Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Omega-3", "DHA", "EPA"],
+    "visual": "Blue pouch, pink fish mascot, fish-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_Curcuma",
+    "product": "Youvit Omega-3 Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Omega-3", "DHA", "EPA"],
+    "visual": "Blue pouch, orange clownfish mascot, fish-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_Curcuma",
+    "product": "Youvit Curcuma Vitamin Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Curcuma", "Vitamins C, D, B12", "Zinc", "Honey"],
+    "visual": "Orange pouch, orange face mascot, bear-shaped gummies"
+  },
+  {
+    "sku": "Kids_Curcuma_Green_7s",
+    "product": "Youvit Curcuma Vitamin Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Curcuma", "Vitamins C, D, B12", "Zinc", "Honey"],
+    "visual": "Green pouch, teal face mascot, bear-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_Curcuma",
+    "product": "Youvit Curcuma Vitamin Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": ["Curcuma", "Vitamins C, D, B12", "Zinc", "Honey"],
+    "visual": "Pink pouch, pink face mascot winking, bear-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_VitD",
+    "product": "Youvit Vitamin D+ Yogurt Gummy",
+    "audience": "Kids",
+    "format": "Pouch 30 gummies",
+    "main_highlights": ["Vitamin D3 600 IU", "Yogurt", "Fruit Extract"],
+    "visual": "Blue pouch, pink flamingo mascot with bow, animal-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_VitD",
+    "product": "Youvit Vitamin D+ Yogurt Gummy",
+    "audience": "Kids",
+    "format": "Pouch 30 gummies",
+    "main_highlights": ["Vitamin D3 600 IU", "Yogurt", "Fruit Extract"],
+    "visual": "Blue pouch, grey dinosaur mascot, animal-shaped gummies"
+  },
+  {
+    "sku": "Youvit_Kids_VitD",
+    "product": "Youvit Vitamin D+ Yogurt Gummy",
+    "audience": "Kids",
+    "format": "Pouch 30 gummies",
+    "main_highlights": ["Vitamin D3 600 IU", "Yogurt", "Fruit Extract"],
+    "visual": "Blue pouch, yellow giraffe mascot, animal-shaped gummies"
+  },
+  {
+    "sku": "Kids_Multivitamin_Kids",
+    "product": "Youvit Multivitamin Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": [
+      "10 Vitamins",
+      "3 Minerals with Curcuma",
+      "Strawberry, Orange & Pineapple flavor"
+    ],
+    "visual": "Pink pouch, girl face mascot with bow, bear-shaped gummies"
+  },
+  {
+    "sku": "Kids_Multivitamin_Kids",
+    "product": "Youvit Multivitamin Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": [
+      "10 Vitamins",
+      "3 Minerals with Curcuma",
+      "Strawberry, Orange & Pineapple flavor"
+    ],
+    "visual": "Red pouch, boy face mascot, bear-shaped gummies"
+  },
+  {
+    "sku": "Kids_Multivitamin_Kids",
+    "product": "Youvit Multivitamin Gummy",
+    "audience": "Kids",
+    "format": "Pouch 7 gummies",
+    "main_highlights": [
+      "10 Vitamins",
+      "3 Minerals with Curcuma",
+      "Strawberry, Orange & Pineapple flavor"
+    ],
+    "visual": "Blue pouch, boy face mascot, bear-shaped gummies"
+  }
+]

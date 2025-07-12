@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit==1.28.1
+openai==0.28.1
+pillow==10.1.0
+python-dotenv==1.0.0

@@ -1,0 +1,15 @@
+[project]
+name = "you-posm-review"
+version = "0.1.0"
+description = "COC Shelf Reviewer POC using GPT-4 Vision"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.28.1",
+    "openai>=1.0.0",
+    "pillow>=10.1.0",
+    "python-dotenv>=1.0.0",
+    # Using headless OpenCV to avoid OpenGL issues
+    "opencv-python-headless>=4.8.0",
+    "numpy>=1.24.0"
+]
